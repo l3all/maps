@@ -150,6 +150,22 @@
           45.49447676175196
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e25822",
+        "marker-size": "medium",
+        "marker-symbol": "fire-station",
+        "title": "Caserne 23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58529925346375,
+          45.47781787638913
+        ]
+      }
     }
   ]
 }
