@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#e25822",
+        "stroke-width": 5,
+        "stroke-opacity": 0.7,
+        "title": "Territoire de la Caserne 25"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.5879921913147,
+            45.51201601160559
+          ],
+          [
+            -73.56982827186584,
+            45.50318879349873
+          ],
+          [
+            -73.56885194778442,
+            45.504173841304834
+          ],
+          [
+            -73.56643795967102,
+            45.50303840300411
+          ],
+          [
+            -73.56738209724426,
+            45.50191046148911
+          ],
+          [
+            -73.56528997421265,
+            45.50080505687989
+          ],
+          [
+            -73.56736063957214,
+            45.498127932664445
+          ],
+          [
+            -73.56863737106322,
+            45.497782002833496
+          ],
+          [
+            -73.5709011554718,
+            45.49590943273073
+          ],
+          [
+            -73.56916308403015,
+            45.49508217309526
+          ],
+          [
+            -73.5701286792755,
+            45.49428498413052
+          ],
+          [
+            -73.57317566871643,
+            45.49574398177584
+          ],
+          [
+            -73.57364773750305,
+            45.49526266714314
+          ],
+          [
+            -73.58002066612244,
+            45.498308416949975
+          ],
+          [
+            -73.5795271396637,
+            45.49883482614512
+          ],
+          [
+            -73.58475208282469,
+            45.50121864617945
+          ],
+          [
+            -73.5918116569519,
+            45.50276769910143
+          ],
+          [
+            -73.58798146247864,
+            45.512012252437685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e25822",
+        "marker-size": "medium",
+        "marker-symbol": "fire-station",
+        "title": "Caserne 25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57288599014282,
+          45.497813963830914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e25822",
+        "marker-size": "medium",
+        "marker-symbol": "fire-station",
+        "title": "Caserne 20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55923622846603,
+          45.50613824586984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e25822",
+        "marker-size": "medium",
+        "marker-symbol": "fire-station",
+        "title": "Caserne 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5667437314987,
+          45.51217765558845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e25822",
+        "marker-size": "medium",
+        "marker-symbol": "fire-station",
+        "title": "Caserne 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58016550540924,
+          45.49447676175196
+        ]
+      }
+    }
+  ]
+}
